@@ -1,0 +1,21 @@
+.container{
+    height: 100vh;
+
+    background-image: linear-gradient(#9547d1,#991c35 );
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.container h1{
+    font-size: 36px;
+    font-weight: bold;
+    color: #fc03db;
+}
+.container p{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color:orange;
+
+}
